@@ -8,3 +8,11 @@ npm run dev
 
 mix file configured for tailwind and sass files. Import all tailwind and custom sass files in the same app.scss
 
+
+
+Additional actions after git pull (automate from Plesk):
+
+composer install
+npm run prod
+php artisan migrate
+php artisan optimize
