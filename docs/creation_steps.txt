@@ -1,0 +1,10 @@
+create new laravel project
+create sqlite database file and configure in env file
+install laravel livewire
+install laravel breeze
+migrate
+npm install
+npm run dev
+
+mix file configured for tailwind and sass files. Import all tailwind and custom sass files in the same app.scss
+
