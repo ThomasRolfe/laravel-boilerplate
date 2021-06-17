@@ -23,8 +23,9 @@ Create a .env file with a database connection (can be sqlite)
 Run the following commands
 
 ```jsx
-php artisan migrate
 npm install
+composer install
+php artisan migrate
 
 // During development
 npm run dev 
