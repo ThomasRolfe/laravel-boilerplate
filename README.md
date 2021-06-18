@@ -2,7 +2,7 @@
 
 This boilerplate is a blank starting point for laravel projects both front and back end (not configured for API only) 
 
-##Requirements
+## Requirements
 - PHP >= 8.0.0
 
 ## Included components
